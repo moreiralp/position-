@@ -6,6 +6,13 @@ div {
     color: white;
 }
 
+p {
+    font-size: 3em;
+    font-weight: bolder;
+    color:red;
+    text-align: center;
+}
+
 .relative {
     background-color: cyan;
     border: 3px dotted blue;
